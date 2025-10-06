@@ -1,6 +1,6 @@
 # Pandas & NumPy Projects
 
-# [Netflix Titles Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
+## [Netflix Titles Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 A dataset of 8,809 movies and TV shows on Netflix, including title, director, cast, country, release year, rating, duration, genres, and description.
 Use Cases:
 
@@ -10,7 +10,7 @@ Explore production distribution across countries
 
 Support recommendation systems and market analysis
 
-# Restaurant Orders Dataset
+## [Restaurant Orders Dataset](https://www.kaggle.com/datasets/haseebindata/restaurant-orders/)
 Includes order ID, customer name, food item, category (Starter/Main/Dessert), quantity, price, payment method, and timestamp.
 Use Cases:
 
