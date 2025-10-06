@@ -1,4 +1,4 @@
-# PandasNumpy
+### Pandas and Numpy
 
 # About netflix_titles dataset
 Netflix stands as a leading force in the realm of media and video streaming. With a staggering array of over 8,000 movies and TV shows accessible on their platform, as of mid-2021, their global subscriber count exceeds 200 million. This tabulated dataset comprehensively catalogues all offerings on Netflix, including vital details such as cast, directors, ratings, release year, duration, and more.
