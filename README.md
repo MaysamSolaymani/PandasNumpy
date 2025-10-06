@@ -1,6 +1,6 @@
 # Pandas & NumPy Projects
 
-# Netflix Titles Dataset
+# [Netflix Titles Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 A dataset of 8,809 movies and TV shows on Netflix, including title, director, cast, country, release year, rating, duration, genres, and description.
 Use Cases:
 
