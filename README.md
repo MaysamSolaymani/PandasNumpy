@@ -1,52 +1,25 @@
-### Pandas and Numpy
+#Pandas & NumPy Projects
 
-# About netflix_titles dataset
-Netflix stands as a leading force in the realm of media and video streaming. With a staggering array of over 8,000 movies and TV shows accessible on their platform, as of mid-2021, their global subscriber count exceeds 200 million. This tabulated dataset comprehensively catalogues all offerings on Netflix, including vital details such as cast, directors, ratings, release year, duration, and more.
+# Netflix Titles Dataset
+A dataset of 8,809 movies and TV shows on Netflix, including title, director, cast, country, release year, rating, duration, genres, and description.
+Use Cases:
 
-# Dataset Overview:
-The Netflix Titles dataset is a comprehensive compilation of movies and TV shows available on Netflix, covering various aspects such as the title type, director, cast, country of production, release year, rating, duration, genres (listed in), and a brief description. This dataset is instrumental for analyzing trends in Netflix content, understanding genre popularity, and examining the distribution of content across different regions and time periods.
+Analyze content trends and genre popularity
 
-# Key Details:
-Total Entries: The dataset contains 8,809 entries, each representing a unique movie or TV show.
-Columns: There are 12 columns in the dataset:
-show_id: A unique identifier for each title.
-type: The category of the title, which is either 'Movie' or 'TV Show'.
-title: The name of the movie or TV show.
-director: The director(s) of the movie or TV show. (Contains null values for some entries, especially TV shows where this information might not be applicable.)
-cast: The list of main actors/actresses in the title. (Some entries might not have this information.)
-country: The country or countries where the movie or TV show was produced.
-date_added: The date the title was added to Netflix.
-release_year: The year the movie or TV show was originally released.
-rating: The age rating of the title.
-duration: The duration of the title, in minutes for movies and seasons for TV shows.
-listed_in: The genres the title falls under.
-description: A brief summary of the title.
-Potential Use Cases:
-Content Analysis: This dataset can be used to perform detailed content analysis, such as genre popularity over time, distribution of content production across different countries, and trends in movie versus TV show production.
-Recommendation Systems: For developers and data scientists working on recommendation systems, this dataset provides a rich source of metadata for content similarity and user preference modeling.
-Market Analysis: Market researchers can utilize this dataset to analyze Netflix's content strategy, including their focus on international markets, genre diversification, and investment in original content.
-Whether you are a data enthusiast, a content creator, or a market analyst, the Netflix Titles dataset offers valuable insights into the evolving landscape of digital content. Explore this dataset to uncover trends, patterns, and opportunities in the world of streaming entertainment.
+Explore production distribution across countries
 
-# About Restaurant dataset
+Support recommendation systems and market analysis
 
-# Columns & Descriptions
-Order ID (int) – Unique identifier for each order.
-Customer Name (string) – Name of the customer who placed the order.
-Food Item (string) – The specific food item ordered (e.g., Pizza, Pasta, Soup, Brownie).
-Category (string) – Food category of the item (Starter, Main, Dessert).
-Quantity (int) – Number of units of the food item ordered (1–5).
-Price (float) – Price of the food item in local currency (2.06 – 24.99).
-Payment Method (string) – Payment method used (Cash, Debit Card, Credit Card, Online Payment).
-Order Time (datetime) – Timestamp when the order was placed.
-# Notes & Observations
-Duplicates: Some customer names appear more than once.
-Categories: Only 3 categories exist – Starter, Main, Dessert.
-Payment Diversity: Four payment types are present.
-Timestamps: Each order has a unique timestamp.
+# Restaurant Orders Dataset
+Includes order ID, customer name, food item, category (Starter/Main/Dessert), quantity, price, payment method, and timestamp.
+Use Cases:
 
-# This dataset can be used for business analytics & machine learning, such as:
-Predicting popular food items based on quantity & category.
-Analyzing customer purchase behavior.
-Forecasting sales trends by time and payment method.
-Identifying revenue distribution across categories.
+Predict popular food items
 
+Analyze customer behavior
+
+Forecast sales trends
+
+Evaluate revenue distribution across categories
+
+Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn
