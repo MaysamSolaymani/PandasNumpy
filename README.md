@@ -1,4 +1,4 @@
-#Pandas & NumPy Projects
+# Pandas & NumPy Projects
 
 # Netflix Titles Dataset
 A dataset of 8,809 movies and TV shows on Netflix, including title, director, cast, country, release year, rating, duration, genres, and description.
