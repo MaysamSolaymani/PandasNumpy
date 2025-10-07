@@ -1,5 +1,11 @@
 # About this project
 
+## [Sales order](https://www.kaggle.com/datasets/vincentcornlius/sales-orders/data)
+The dataset comes from a freenium download on the web.
+We have added a Margin and Category column for your needs.
+
+| Order Date | Order ID | Product | Product_ean | category | Purchase | Address | Quantity | Ordered | Price Each | Cost price | turnover | margin |
+
 ## [Netflix Titles Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
 A dataset of 8,809 movies and TV shows on Netflix, including title, director, cast, country, release year, rating, duration, genres, and description.
 Use Cases:
