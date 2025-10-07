@@ -4,3 +4,4 @@ rdflib
 skimage
 matplotlib
 mlcroissant
+seaborn
