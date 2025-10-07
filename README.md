@@ -1,6 +1,6 @@
 # About this project
 
-## [Sales order](https://www.kaggle.com/datasets/vincentcornlius/sales-orders/data)
+## [Sales Order Dataset](https://www.kaggle.com/datasets/vincentcornlius/sales-orders/data)
 The dataset comes from a freenium download on the web.
 We have added a Margin and Category column for your needs.
 
