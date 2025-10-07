@@ -5,3 +5,4 @@ skimage
 matplotlib
 mlcroissant
 seaborn
+sklearn
