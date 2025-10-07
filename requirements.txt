@@ -3,3 +3,4 @@ pandas
 rdflib
 skimage
 matplotlib
+mlcroissant
