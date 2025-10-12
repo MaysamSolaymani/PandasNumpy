@@ -1,8 +1,11 @@
-numpy
-pandas
-rdflib
+numpy~=2.2.6
+pandas~=2.3.2
+rdflib~=7.2.1
 skimage
-matplotlib
-mlcroissant
-seaborn
+matplotlib~=3.10.6
+mlcroissant~=1.0.22
+seaborn~=0.13.2
 sklearn
+scikit-learn~=1.7.2
+scikit-image~=0.25.2
+histdata~=1.1
