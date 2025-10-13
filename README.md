@@ -1,31 +1,58 @@
-# About this project
+# 📊 PandasNumpy – Data Analysis with Python
 
-## [Sales Order Dataset](https://www.kaggle.com/datasets/vincentcornlius/sales-orders/data)
-The dataset comes from a freenium download on the web.
-We have added a Margin and Category column for your needs.
+**🔗 Project Link:** [GitHub Repository](https://github.com/MaysamSolaymani/PandasNumpy)
 
-| Order Date | Order ID | Product | Product_ean | category | Purchase | Address | Quantity | Ordered | Price Each | Cost price | turnover | margin |
+## Overview
 
-## [Netflix Titles Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
-A dataset of 8,809 movies and TV shows on Netflix, including title, director, cast, country, release year, rating, duration, genres, and description.
-Use Cases:
+**PandasNumpy** is a practical, hands-on project focused on data analysis using Python's **Pandas** and **NumPy** libraries. It demonstrates real-world data analysis workflows, from data cleaning and transformation to visualization and insights extraction. This project is ideal for anyone looking to strengthen their Python data analysis skills or showcase them on LinkedIn.
 
-Analyze content trends and genre popularity
+## Project Structure
 
-Explore production distribution across countries
+- `code/` – Python scripts for data analysis
+- `Dataset/` – Datasets used in the project
+- `Photos/` – Generated visualizations and charts
+- `requirements.txt` – List of Python dependencies
+- `README.md` – Project overview and instructions
 
-Support recommendation systems and market analysis
+## Key Datasets & Analysis
 
-## [Restaurant Orders Dataset](https://www.kaggle.com/datasets/haseebindata/restaurant-orders/)
-Includes order ID, customer name, food item, category (Starter/Main/Dessert), quantity, price, payment method, and timestamp.
-Use Cases:
+- **Sales Order Dataset**:
+  - Performed detailed analysis including adding **Margin** and **Category** columns for deeper insights
+- **Netflix Titles Dataset**:
+  - Analyzed **8,809 movies and series** with attributes like title, director, cast, country, release year, rating, duration, genres, and description
 
-Predict popular food items
+## Features
 
-Analyze customer behavior
+- Efficient data manipulation with **Pandas**
 
-Forecast sales trends
+- Numerical computations using **NumPy**
 
-Evaluate revenue distribution across categories
+- Data cleaning, transformation, and aggregation techniques
 
-Technologies: Python, Pandas, NumPy, Matplotlib, Seaborn
+- Visualizations to interpret trends and patterns
+
+  ___
+
+### **Kaggle ِDataset**
+
+- #### [Sales Order Dataset](https://www.kaggle.com/datasets/vincentcornlius/sales-orders/data)
+
+- #### [Netflix Titles Dataset](https://www.kaggle.com/datasets/rahulvyasm/netflix-movies-and-tv-shows)
+
+- #### [Restaurant Orders Dataset](https://www.kaggle.com/datasets/haseebindata/restaurant-orders/)
+
+## Installation
+
+To get started, clone the repository and install the required libraries:
+
+```
+git clone https://github.com/MaysamSolaymani/PandasNumpy.git
+cd PandasNumpy
+pip install -r requirements.txt
+```
+
+## Getting Started
+
+1. Explore the datasets in the `Dataset/` folder
+2. Run the Python scripts in `code/` to reproduce the analysis
+3. Review the visualizations in the `Photos/` folder for insights
